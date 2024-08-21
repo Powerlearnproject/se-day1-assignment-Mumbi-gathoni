@@ -47,3 +47,8 @@ Prompt Engineering is important when working with AI modlel because it helps in 
 
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+Example:''Explain things''
+Improved Example:''Could you elaborate on a specific topic?"
+The improved prompt is effective as it specifies the information being requested, making it easier to provide a relevant and precise response.
+
+
