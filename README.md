@@ -13,7 +13,13 @@ Agile Manifesto-It focuses on individuals and interactions over process and tool
 DevOps-It bridges the gap between development(Dev) and ooerations(Ops) team which has greatly influenced the way software is developed leading to more efficient, collaborative and customer-centric approach in the field of software enginnering.
 
 List and briefly explain the phases of the Software Development Life Cycle.
-A.
+A.Planning-Involves defining the project scope, requirements and creatsing a road map for the project
+B.Analysis-The team analyzes the requirements gathered in the planning phase to understand what needs to be built
+C.Design-The team creates a detailed design based on the requirements and analysis to guide the development process.
+D.Implementation-The actaual coding or development of the software takes place based on the design application.
+E.Testing-The software is tested to ensure it meets the requirement and functions correctly.
+F.Deployment-The software is deployed to the production environment for users to access and use
+G.Maintenance-After deployment, the software is maintained, updated and improved as needed to ensure it continues to meet user needs.
 
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
