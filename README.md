@@ -5,13 +5,15 @@ Software Engineering Day1 Assignment
 #Part 1: Introduction to Software Engineering
 
 Explain what software engineering is and discuss its importance in the technology industry.
-Software Engineering is designing and developin
-g digital systems or programs to ensure they work well and function properly.
+Software Engineering is designing and developing digital systems or programs to ensure they work well and function properly.
 
 Identify and describe at least three key milestones in the evolution of software engineering.
-Waterfall method-
+Waterfall method-It introduced a structured approach where each phase of the software development flows downwards like a waterfall.
+Agile Manifesto-It focuses on individuals and interactions over process and tools,working software over comprehensive documentation, customer collaboration over contract negotiation and responding to change over folllowing a plan
+DevOps-It bridges the gap between development(Dev) and ooerations(Ops) team which has greatly influenced the way software is developed leading to more efficient, collaborative and customer-centric approach in the field of software enginnering.
 
 List and briefly explain the phases of the Software Development Life Cycle.
+A.
 
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
