@@ -24,6 +24,9 @@ Intergrated Development Environment are all in one toolkit for software develope
 Version Control Systems are crucial for tracking changes in code, collaborating with team members and reverting to previous versions if needed i.e GIT
 
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
+Tight deadlines which can be overcome by prioritizing tasks and staying organized.
+Changing Requirements to tackle this communication should be done effectively so as to meet requirements
+Complex technical issues to tackle this software engineers should continously enhance technical skills through learning and practice.
 
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
