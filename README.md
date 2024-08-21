@@ -25,11 +25,17 @@ Version Control Systems are crucial for tracking changes in code, collaborating 
 
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
 Tight deadlines which can be overcome by prioritizing tasks and staying organized.
-Changing Requirements to tackle this communication should be done effectively so as to meet requirements
+Changing Requirements to tackle this communication should be done effectively so as to meet requirements.
 Complex technical issues to tackle this software engineers should continously enhance technical skills through learning and practice.
 
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
+UNIT testing-focuses on testing units of code in isolation.Unit testing is important as it helos catch bugs early in the development process and promotes code quality and maintainability.
+INTERGRATION testing-verifies that diferent units of codework together correctly.It plays a key role in detecting interface defects and ensuring the proper functioning of the software.
+SYSTEM testing-evaluates the behaviour of a fully intergrated software product.It's essential for validating the software readiness for release and identifying any discrepancies between the system and user expectations.
+AACEPTANCE testing-Involves testing the software in the real world scenario to determine if it satisfies the acceptance criteria set by the stakeholders.It's crucial for gaining confidence in the software usability and confirming that it aligns  with user's expectations.
+
+
 
 
 #Part 2: Introduction to AI and Prompt Engineering
