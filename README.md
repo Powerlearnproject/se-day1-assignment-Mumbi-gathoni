@@ -22,7 +22,9 @@ On the other hand, Agile is an iterative and incremental approach where the proj
 
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
-
+In a software engineering team, a software developer is responsible for coding and building the software ensuring it meets the project requirements.
+The quality assurance engineer tests the software for bugs and ensures its quality before release.
+The project manager oversees the project, managing resources, timelines and communication to ensure successful delivery.
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
 Intergrated Development Environment are all in one toolkit for software developers that provide code editing,debugging and project management i.e Visual Studio
