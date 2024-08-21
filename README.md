@@ -42,6 +42,8 @@ AACEPTANCE testing-Involves testing the software in the real world scenario to d
 
 
 Define prompt engineering and discuss its importance in interacting with AI models.
+Prompt engineering is creating software solutions to meet specific needs ,focusing on speed and efficiency.
+Prompt Engineering is important when working with AI modlel because it helps in quickly creating effective ways to communicate with the models, making interactions smooth and efficient.
 
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
