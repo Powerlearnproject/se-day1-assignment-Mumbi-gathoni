@@ -17,6 +17,8 @@ A.
 
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
+In waterfall metholodogy, the development process is linear and consequential with each phase dependent on the deliverables of the previous one,its moree suitable for projects that involve a physical infrastucture such as a bridge.
+On the other hand, Agile is an iterative and incremental approach where the project is divided into small sprints allowing for flexibility and adaptability to changes it is often more succesful for startup projects with unclear or evolving specifications
 
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
